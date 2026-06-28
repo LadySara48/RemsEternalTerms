@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 29.06.2026
 
 Welcome! These Terms of Service ("Terms") govern your use of the Discord bot (the "Bot"). By inviting the Bot to a server or using its features, you agree to these Terms. If you do not agree, please do not use the Bot.
 
@@ -41,12 +41,12 @@ We may suspend or terminate your access to the Bot at any time, with or without 
 We may update these Terms from time to time. Material changes will be communicated through the Bot or our official support server. Continued use after the changes take effect constitutes your acceptance of the new Terms.
 
 ## 11. Governing Law
-These Terms shall be governed by the laws of [Your Jurisdiction], without regard to conflict of law principles.
+These Terms shall be governed by the laws of Republic of Türkiye, without regard to conflict of law principles.
 
 ## 12. Contact
 If you have questions about these Terms, please reach out:
-- **Email:** [email@example.com]
-- **Discord Support Server:** [https://discord.gg/example]
+- **Email:** [esrakanat55@hotmail.com]
+- **Discord Support Server:** [https://discord.gg/rems]
 
 ---
 

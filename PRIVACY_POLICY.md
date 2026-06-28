@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 29.06.2026
 
 This Privacy Policy explains how the Discord bot (the "Bot") collects, uses, and protects your information when you interact with it.
 
@@ -54,8 +54,8 @@ We may update this Privacy Policy from time to time. Material changes will be an
 
 ## 9. Contact
 For privacy-related inquiries or data requests:
-- **Email:** [email@example.com]
-- **Discord Support Server:** [https://discord.gg/example]
+- **Email:** [esrakanat55@hotmail.com]
+- **Discord Support Server:** [https://discord.gg/rems]
 
 ---
 
