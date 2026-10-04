@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Texture Pack License</title>
+
+    <style>
+        :root {
+            color-scheme: dark;
+
+            --background: #0d1117;
+            --container: #161b22;
+            --border: #30363d;
+            --text: #e6edf3;
+            --muted: #8b949e;
+            --accent: #58a6ff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 40px 20px;
+
+            background: var(--background);
+            color: var(--text);
+
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+
+            line-height: 1.7;
+        }
+
+        main {
+            width: 100%;
+            max-width: 900px;
+
+            margin: 0 auto;
+            padding: 40px;
+
+            background: var(--container);
+
+            border: 1px solid var(--border);
+            border-radius: 12px;
+        }
+
+        h1 {
+            margin-top: 0;
+            margin-bottom: 5px;
+
+            font-size: 2rem;
+        }
+
+        h2 {
+            margin-top: 35px;
+
+            padding-bottom: 8px;
+
+            border-bottom: 1px solid var(--border);
+
+            font-size: 1.25rem;
+        }
+
+        p,
+        li {
+            color: var(--text);
+        }
+
+        .subtitle {
+            margin-top: 0;
+            color: var(--muted);
+        }
+
+        .notice {
+            margin: 25px 0;
+            padding: 16px 20px;
+
+            background: rgba(88, 166, 255, 0.08);
+
+            border-left: 4px solid var(--accent);
+            border-radius: 6px;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+
+            border-top: 1px solid var(--border);
+
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<main>
+
+    <h1>Texture Pack License</h1>
+
+    <p class="subtitle">
+        Permission and usage terms for this Minecraft Texture / Resource Pack.
+    </p>
+
+    <div class="notice">
+        <strong>Short version:</strong>
+        You are free to use, modify, redistribute, and include content from this
+        texture pack in your own projects. Giving credit is appreciated, but not required.
+    </div>
+
+
+    <h2>1. Permission</h2>
+
+    <p>
+        Permission is hereby granted to anyone obtaining a copy of this texture pack
+        to use, copy, modify, edit, redistribute, remix, adapt, or include its
+        original contents in other projects.
+    </p>
+
+    <p>
+        This permission includes, but is not limited to:
+    </p>
+
+    <ul>
+        <li>Personal projects</li>
+        <li>Minecraft texture or resource packs</li>
+        <li>Minecraft servers</li>
+        <li>Mods and modpacks</li>
+        <li>Videos, screenshots, streams, and other media</li>
+        <li>Games and software projects</li>
+        <li>Public and private projects</li>
+        <li>Commercial and non-commercial projects</li>
+        <li>Modified or derivative versions of the textures</li>
+    </ul>
+
+
+    <h2>2. Attribution</h2>
+
+    <p>
+        Some textures, artwork, graphics, or other assets included in this pack
+        were created by me.
+    </p>
+
+    <p>
+        If you use my original work in another project, mentioning or crediting me
+        as the original creator is greatly appreciated.
+    </p>
+
+    <p>
+        <strong>Attribution is appreciated, but it is not required.</strong>
+        You may still use my original content even if you do not provide credit.
+    </p>
+
+
+    <h2>3. Modification and Redistribution</h2>
+
+    <p>
+        You may modify the original content in any way you want.
+        Modified and unmodified versions may be shared or redistributed.
+    </p>
+
+    <p>
+        You may also use individual textures or assets separately without
+        distributing the entire texture pack.
+    </p>
+
+
+    <h2>4. Third-Party Content</h2>
+
+    <p>
+        This license applies only to content for which I have the legal authority
+        to grant these permissions.
+    </p>
+
+    <p>
+        Some content included in this texture pack may originate from third-party
+        creators or other sources. Such content remains subject to the rights,
+        licenses, and terms of its respective copyright holder.
+    </p>
+
+    <p>
+        This license does not grant additional rights to third-party content
+        beyond the rights I am legally permitted to provide.
+    </p>
+
+
+    <h2>5. Missing Credits or Ownership Information</h2>
+
+    <p>
+        I try to properly identify and credit third-party content when applicable.
+        However, it is possible that an asset may be included without a proper
+        attribution or description.
+    </p>
+
+    <p>
+        If you are the creator or copyright holder of any content included in this
+        texture pack and believe that your work has not been properly credited,
+        identified, or used according to your terms, please contact me.
+    </p>
+
+    <p>
+        I will review the issue and, when appropriate, add attribution,
+        update the relevant information, or remove the content.
+    </p>
+
+
+    <h2>6. No Warranty</h2>
+
+    <p>
+        This texture pack and its original contents are provided "as is", without
+        warranty of any kind, express or implied.
+    </p>
+
+    <p>
+        I am not responsible for any damages, losses, compatibility problems,
+        or other issues resulting from the use, modification, or redistribution
+        of this texture pack.
+    </p>
+
+
+    <h2>7. Contact</h2>
+
+    <p>
+        For copyright concerns, missing attribution, ownership claims,
+        licensing questions, or other related matters:
+    </p>
+
+    <p>
+        <strong>Email:</strong>
+        <a href="mailto:esrakanat55@hotmail.com">
+            esrakanat55@hotmail.com
+        </a>
+    </p>
+
+
+    <footer>
+        This license applies to the original content of this Minecraft
+        Texture / Resource Pack unless otherwise stated.
+    </footer>
+
+</main>
+
+</body>
+</html>
